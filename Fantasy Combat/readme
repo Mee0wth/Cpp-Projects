@@ -1,0 +1,14 @@
+Details:
+In this program we are using containers to hold characters 
+(developed in project 3) in a linked list structure to simulate a 
+fantasy combat tournament game. Each round two fighters compete and
+the winning fighter gets put back in their team’s lineup while the loser
+gets put into the loser pile. This program will be utilizing concepts we 
+learned in Week 7 (Stacks and Queues).
+
+To Execute:
+    1. Go into directory
+    2. Type 'make' and run with ./project04
+
+Clean Up:
+    1. In directory type 'make clean' 

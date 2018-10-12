@@ -1,0 +1,10 @@
+Details:
+This is a zoo tycoon game using classes and inheritance. 
+This game allows players to run a Zoo business where they purchase animals 
+(Tigers, Penguins, Turtles) for their zoo and where they manage costs 
+associated with owning a Zoo business. These costs include cost of animals, 
+maintenance costs, and return on profits.
+
+Execute: 
+1. Within directory type 'make' 
+2. Clean up type 'make clean' 
