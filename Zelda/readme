@@ -1,0 +1,19 @@
+Details:
+    This is a Text-based Game
+    
+    Goals
+        Design a game with pointer-linked spaces
+        Use object-oriented programming concepts
+    
+    In this program, the player plays as Link from the franchise Zelda. 
+    The player wakes up in a dungeon and must defeat 6 levels of dungeons 
+    before the player can defeat Gannon and rescue the Princess Zelda.
+
+
+Execute:
+    1. Go into directory
+    2. Run 'make' on the command line 
+    3. ./final to execute 
+
+Clean up:
+    1. Type 'make clean' within folder on command line
